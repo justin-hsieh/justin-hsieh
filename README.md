@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Connect with me:
+
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=justin-hsieh)](https://github.com/justin-hsieh)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-hsieh&layout=compact)](https://github.com/justin-hsieh)
+-->
