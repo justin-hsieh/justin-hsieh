@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 Connect with me:
 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=justin-hsieh)](https://github.com/justin-hsieh)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-hsieh&layout=compact)](https://github.com/justin-hsieh)
 -->
+Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+
+</div>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=justin-hsieh)](https://github.com/justin-hsieh)
