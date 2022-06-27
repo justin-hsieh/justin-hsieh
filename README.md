@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Justin 👋
 
 <!--
 **justin-hsieh/justin-hsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Connect with me:
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=justin-hsieh)](https://github.com/justin-hsieh)
