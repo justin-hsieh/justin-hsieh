@@ -16,8 +16,16 @@ Here are some ideas to get you started:
 -->
 Connect with me:
 <div>
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
+  <a href="https://justinhsieh8.com/">
+    <img src="https://github.com/primer/octicons/blob/main/icons/code-square-24.svg" title="Portfolio" alt="Portfolio" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/justin-hsieh/">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://twitter.com/iamjust_h"> 
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
+  </a>
+  
 </div>
 Languages and Tools:
 <div>
