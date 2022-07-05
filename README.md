@@ -1,20 +1,15 @@
 ### Hi there, I'm Justin 👋
 
-<!--
-**justin-hsieh/justin-hsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm interested in building cool things using data and software!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Connect with me:
+
+- 🌱 I’m currently learning everything. It never stops! 🤣
+- 💬 I'm always open to connecting with others and exploring new opportunities
+- ⚡ Check out my <a href="https://justinhsieh8.com">portfolio site!</a>
+
+
+#### Connect with me:
 <div>
   <a href="https://justinhsieh8.com/">
     <img src="https://github.com/primer/octicons/blob/main/icons/code-square-24.svg" title="Portfolio" alt="Portfolio" width="40" height="40"/>&nbsp;
@@ -27,7 +22,8 @@ Connect with me:
   </a>
   
 </div>
-Languages and Tools:
+
+#### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
@@ -44,7 +40,8 @@ Languages and Tools:
 
 </div>
 
-Currently Learning:
+
+#### Currently Learning:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -52,6 +49,9 @@ Currently Learning:
   
 </div>
 
+
+
+#### Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=justin-hsieh)](https://github.com/justin-hsieh)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-hsieh&layout=compact)](https://github.com/justin-hsieh)
