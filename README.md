@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning everything. It never stops! 🤣
-- 💼 My experience leans towards full-stack data (data science and data engineering)
+- 💼 My experience leans towards software/data engineering
 - 💬 I'm always open to connecting with others and exploring new opportunities
 - ⚡ Check out my <a href="https://justinhsieh8.com">portfolio site!</a>
 
